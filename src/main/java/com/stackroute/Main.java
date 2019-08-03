@@ -14,7 +14,7 @@ public class Main {
         System.out.println("*********************************************************");
 
         // Jaguar object to access methods of Jaguar class
-       Jaguar jaguar= new Jaguar();
+        Jaguar jaguar= new Jaguar();
         jaguar.setColor("Black");
         jaguar.setPrice("40 Lakhs");
         jaguar.start();

@@ -3,7 +3,7 @@ package com.stackroute.oops;
 // Car class implememts Vehicle interface to override its methods
 public class Car implements Vehicle {
 
-    // Override methods
+    // Override methods of Vehicle Interface
     @Override
     public void start() {
         System.out.println("Car starts");
