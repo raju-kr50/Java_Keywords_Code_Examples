@@ -15,9 +15,14 @@ public class Main {
 
         // Jaguar object to access methods of Jaguar class
        Jaguar jaguar= new Jaguar();
+        jaguar.setColor("Black");
+        jaguar.setPrice("40 Lakhs");
         jaguar.start();
         jaguar.run();
         jaguar.speed();
         jaguar.stop();
+        System.out.println("The color of Jaguar car is "+jaguar.getColor());
+        System.out.println("The price of Jaguar car is "+jaguar.getPrice());
+
     }
 }
