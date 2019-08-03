@@ -1,4 +1,4 @@
-package com.stackroute.oops.nestedclasses;
+package com.stackroute.nestedclass;
 
 // Outer class having two variables and its method is called in main method of Main class
 public class OuterClass {

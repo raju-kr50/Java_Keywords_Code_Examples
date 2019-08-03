@@ -2,7 +2,7 @@ package com.stackroute;
 
 import com.stackroute.oops.Car;
 import com.stackroute.oops.Jaguar;
-import com.stackroute.oops.nestedclasses.OuterClass;
+import com.stackroute.nestedclass.OuterClass;
 
 public class Main {
     public static void main(String[] args) {
